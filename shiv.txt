@@ -1,1 +1,2 @@
 Hello git
+today is a great day
